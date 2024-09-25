@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Seu Nome]!
+# 👋 Hello! I'm Dalmo!
 
 🚀 **Full-Stack Web Developer** with a strong foundation in **JavaScript** and **Python**. I completed the rigorous **Trybe Full-Stack Development Program**, a 12-month journey with 1,500 hours of hands-on coding and learning.
 
@@ -26,4 +26,4 @@ I’m deepening my knowledge in **Databases** and **DevOps practices** to improv
 
 ## 🔗 Let's Connect:
 
-- LinkedIn: [https://www.linkedin.com/in/dalmo-neto-dev/]
+- LinkedIn: https://www.linkedin.com/in/dalmo-neto-dev
